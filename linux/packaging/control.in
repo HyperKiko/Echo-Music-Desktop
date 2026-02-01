@@ -1,0 +1,7 @@
+Package: echo-music
+Version: VERSION
+Section: sound
+Priority: optional
+Architecture: amd64
+Maintainer: Echo Music <noreply@echo.music>
+Description: Echo Music Desktop - Music player
